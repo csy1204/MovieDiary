@@ -1,3 +1,6 @@
+# Movie Diary (무비다이어리)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

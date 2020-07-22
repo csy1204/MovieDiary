@@ -1,6 +1,14 @@
+# Movie Diary (무비다이어리)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<<<<<<< HEAD
 수민: 디테일 담당입니다. 
+=======
+유진: 메인화면 담당입니다.
+
+>>>>>>> 4ec3cca7892ec7e5d2179f5a7cf8aaaeb030239a
 
 ## Available Scripts
 

@@ -16,7 +16,7 @@ export default function Editor() {
         <div>
             <h1> Editor </h1>
             {data.results.map(d =>(
-                <p>d.title</p>
+                <p>{d.title}</p>
             ))}
         </div>
     )
